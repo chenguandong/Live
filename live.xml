@@ -7,7 +7,7 @@
     {
         "tvName": "CCTV2", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv2hd/workflow1.m3u8"
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live/cctv2hd/workflow1.m3u8"
     }, 
     {
         "tvName": "CCTV3", 
