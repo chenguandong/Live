@@ -48,10 +48,5 @@
         "tvName": "CCTV12", 
         "tvImage": "http://www.baodu.com", 
         "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv12/playlist.m3u8"
-    }, 
-    {
-        "tvName": "CCTV13", 
-        "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv13hd/workflow1.m3u8"
     }
 ]
