@@ -1,1 +1,57 @@
-[{"tvName":"CCTV1","tvImage":"http://www.baodu.com","tvUrl":"http://hls.smgbb.cn.wscdns.com/live/cctv1hd/workflow1.m3u8"},{"tvName":"CCTV1","tvImage":"http://www.baodu.com","tvUrl":"http://hls.smgbb.cn.wscdns.com/live/cctv1hd/workflow1.m3u8"}]
+[
+    {
+        "tvName": "CCTV1", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live/cctv1hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV2", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv2hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV3", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv3hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV4", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv4hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV5", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv5hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV6", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv6hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV7", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv7hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV10", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv10hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV11", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv11hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV12", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv12hd/workflow1.m3u8"
+    }, 
+    {
+        "tvName": "CCTV13", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://hls.smgbb.cn.wscdns.com/live2/cctv13hd/workflow1.m3u8"
+    }
+]
