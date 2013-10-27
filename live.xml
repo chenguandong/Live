@@ -1,10 +1,1 @@
-
-<xml>
-        <name>zhangsan</name>
-        <age>17</age>
-        <class>first</class>
-
-
-
-<xml>
-
+[{"tvName":"CCTV1","tvImage":"http://www.baodu.com","tvUrl":"http://hls.smgbb.cn.wscdns.com/live/cctv1hd/workflow1.m3u8"},{"tvName":"CCTV1","tvImage":"http://www.baodu.com","tvUrl":"http://hls.smgbb.cn.wscdns.com/live/cctv1hd/workflow1.m3u8"}]
