@@ -53,5 +53,10 @@
         "tvName": "CCTV12", 
         "tvImage": "http://www.baodu.com", 
         "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv12/playlist.m3u8"
+    },
+    {
+        "tvName": "HBO", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl": "http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/disk/ngc_srb/hls/hls-audio101_eng=64000-video=1400000.m3u8"
     }
 ]
