@@ -1,0 +1,173 @@
+[
+    {
+        "tvName": "东方卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=dongfang&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "湖南卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=hunan&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "北京卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=bjws&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "江苏卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=jiangsu&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "广东卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=guangdong&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "浙江卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=zhejiang&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "深圳卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=shenzhen&tag=live&ext=m3u8&sign=live_ipad"
+    },
+	{
+        "tvName": "辽宁卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=liaoning&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "山东卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=shandong&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "安徽卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=anhui&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "东南卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=dongnan&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "青海卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=qinghai&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "天津卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=tianjin&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "江西卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=jiangxi&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "河南卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=henan&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "陕西卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=shanxi1&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "吉林卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=jilin&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "湖北卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=hubei&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "广西卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=guangxi&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "河北卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=hebei&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "内蒙古卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=neimenggu&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "四川卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=sichuan&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "贵州卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=ningxia&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "甘肃卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=gansu&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "重庆卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=chongqing&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "新疆卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=xinjiang&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "西藏卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300412.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "河北卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300143.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "旅游卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=lvyou&tag=live&ext=m3u8&sign=live_tv"
+    },
+	{
+        "tvName": "新疆卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300411.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "厦门卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300169.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "兵团卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300157.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "海峡卫视", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://web-play.pptv.com/web-m3u8-300403.m3u8?type=m3u8.web.pad"
+    },
+	{
+        "tvName": "金鹰卡通", 
+        "tvImage": "http://download.easyicon.net/png/1124985/72/", 
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=jykt&tag=live&ext=m3u8&sign=live_tv"
+    }
+
+]
