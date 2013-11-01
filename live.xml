@@ -55,7 +55,7 @@
         "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv12/playlist.m3u8"
     },
      {
-        "tvName": "HBO", 
+        "tvName": "HBO 港", 
         "tvImage": "http://www.baodu.com", 
          "tvUrl":"http://m24.megafun.vn/live.vs?c=vstv036&q=high"
     }
