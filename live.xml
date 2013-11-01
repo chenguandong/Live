@@ -7,56 +7,72 @@
     {
         "tvName": "CCTV2", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv2/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv2&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV3", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv3/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv3&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV4", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv4/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv4&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV5", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv5/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv5_800&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV6", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv6/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv6&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV7", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv7/playlist.m3u8"
+        "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctv7&tag=live&ext=m3u8&sign=live_ipad"
     }, 
+     {
+        "tvName": "CCTV8", 
+        "tvImage": "http://www.baodu.com", 
+        "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctv8&tag=live&ext=m3u8&sign=live_ipad"
+    }, 
+    
     {
         "tvName": "CCTV9", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv9&tag=live&ext=m3u8&sign=live_ipad"
+        "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctv9&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV10", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv10/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv10&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV11", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv11/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv11&tag=live&ext=m3u8&sign=live_ipad"
     }, 
     {
         "tvName": "CCTV12", 
         "tvImage": "http://www.baodu.com", 
-        "tvUrl": "http://rtmp.cntv.lxdns.com/live/cctv12/playlist.m3u8"
+        "tvUrl": "http://live.gslb.letv.com/gslb?stream_id=cctv12&tag=live&ext=m3u8&sign=live_ipad"
     },
      {
-        "tvName": "HBO 港", 
+        "tvName": "CCTV13", 
         "tvImage": "http://www.baodu.com", 
-         "tvUrl":"http://m24.megafun.vn/live.vs?c=vstv036&q=high"
+         "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctvnew&tag=live&ext=m3u8&sign=live_ipad"
+    },
+    {
+        "tvName": "CCTV14", 
+        "tvImage": "http://www.baodu.com", 
+         "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctvshaoer&tag=live&ext=m3u8&sign=live_ipad"
+    },
+    {
+        "tvName": "CCTV15", 
+        "tvImage": "http://www.baodu.com", 
+         "tvUrl":"http://live.gslb.letv.com/gslb?stream_id=cctvmusic&tag=live&ext=m3u8&sign=live_ipad"
     }
 ]
